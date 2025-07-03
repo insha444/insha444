@@ -49,15 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=insha444&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
- 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insha444&show_icons=true&theme=radical" alt="Insha's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insha444&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 

@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hello World, I'm Insha</h1>
 
-<!--
-**insha444/insha444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔭 I’m currently working on improving my <strong>front-end skills</strong> <br>
+👯 I’m looking forward to collaborate on <strong>FullStack Projects</strong> <br>
+🌱 I’m learning <strong>FullStack Dev, Java, and DSA</strong> <br>
+💬 Ask me about <strong>React, JavaScript, Python, WebDev, Tailwind, Machine Learning</strong> <br>
+📫 Reach me at: <strong>inshashahnawaz444@gmail.com</strong>
+</p>
+## 🌐 Connect with Me
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/insha-shahnawaz-645221295/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inshahfr/)
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+**Tools & Platforms**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+**Database & Deployment**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+
+---
